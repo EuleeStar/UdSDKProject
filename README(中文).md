@@ -17,7 +17,7 @@ __虚幻——UdSDK示例需要用到一个免费的优立账户，可从[这里
 <br>UdSDK在虚幻引擎4.27.1版本中测试过。此插件在虚幻引擎的其他版本中也可能正常运行，但并不能保证。请确保您已安装已成功测试的版本。
 
 ### 准备工作
-1. 使用您的许可证凭证在[这里](https://udstream.euclideon.com)下载并提取最后一个UdSDK安装包。您可以从[我们的官方网站](https://euclideon.com/udsdk.html)获得一个免费的账户。
+1. 使用您的许可证凭证在[这里](https://udstream.euclideon.com)下载并提取最后一个UdSDK安装包。您可以从[我们的官方网站](https://euclideon.com/index.html)获得一个免费的账户。
 2. 从[这里](https://git.euclideon.cn:3000/wesley.zeng/UdSDKProject.git)克隆虚幻UdSDK示例或下载其压缩包。
 ![image](./Images/download.PNG)
 3. 右键*UdSDKProject.uproject*，选择*Switch Unreal Engine version*，选择版本4.27并转换。您将得到*UdSDKProject.sln*。
