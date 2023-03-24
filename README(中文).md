@@ -13,11 +13,11 @@ UdSDK版本:             1.0.0
 
 ## 快速入门指南
 
-__虚幻——UdSDK示例需要用到一个免费的优立账户，可从[这里](https://www.euclideon.com/udsdk/)获取权限__
+__虚幻——UdSDK示例需要用到一个免费的优立账户，可从[这里](https://euclideonudcloud.b2clogin.com/euclideonudcloud.onmicrosoft.com/oauth2/v2.0/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fudcloud.euclideon.com%2F.auth%2Flogin%2Faad%2Fcallback&client_id=d5331d90-8c40-4592-b6b8-c31182434a27&scope=openid+profile+email&response_mode=form_post&p=b2c_1_signupsignin1&nonce=5e1a18f40b7341308f13050dd91a5093_20230123031533&state=redir%3D%252F%2523login%253Dyes%2526page%253Dauth-redirect)获取权限__
 <br>UdSDK在虚幻引擎4.27.1版本中测试过。此插件在虚幻引擎的其他版本中也可能正常运行，但并不能保证。请确保您已安装已成功测试的版本。
 
 ### 准备工作
-1. 使用您的许可证凭证在[这里](https://udstream.euclideon.com)下载并提取最后一个UdSDK安装包。您可以从[我们的官方网站](https://www.euclideon.com/free-development-resources/)获得一个免费的账户。
+1. 使用您的许可证凭证在[这里](https://udstream.euclideon.com)下载并提取最后一个UdSDK安装包。您可以从[我们的官方网站](https://euclideonudcloud.b2clogin.com/euclideonudcloud.onmicrosoft.com/oauth2/v2.0/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fudcloud.euclideon.com%2F.auth%2Flogin%2Faad%2Fcallback&client_id=d5331d90-8c40-4592-b6b8-c31182434a27&scope=openid+profile+email&response_mode=form_post&p=b2c_1_signupsignin1&nonce=5e1a18f40b7341308f13050dd91a5093_20230123031533&state=redir%3D%252F%2523login%253Dyes%2526page%253Dauth-redirect)获得一个免费的账户。
 2. 从[这里](https://git.euclideon.cn:3000/wesley.zeng/UdSDKProject.git)克隆虚幻UdSDK示例或下载其压缩包。
 ![image](./Images/download.PNG)
 3. 右键*UdSDKProject.uproject*，选择*Switch Unreal Engine version*，选择版本4.27并转换。您将得到*UdSDKProject.sln*。
